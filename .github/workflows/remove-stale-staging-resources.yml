@@ -1,7 +1,9 @@
 name: Remove stale staging resources
 
 # **What it does**:
+# Tht does**:
 # This cleans up any rogue staging applications and environments that outlasted
+# is cleans up any rogue staging applications and environments that outlasted
 # the closure of their corresponding pull requests.
 # **Why we have it**:
 # Staging applications and environments should be destroyed after their
