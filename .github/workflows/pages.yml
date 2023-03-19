@@ -92,3 +92,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
+
+[![Deploy Next.js site to Pages](https://github.com/behnamkhanioffical/azure/actions/workflows/pages.yml/badge.svg)](https://github.com/behnamkhanioffical/azure/actions/workflows/pages.yml)
