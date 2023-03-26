@@ -1,9 +1,11 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+about: report to help us improve
+title: Bug
+labels: bug, dependencies, docker, documentation, duplicate, enhancement, github_actions,
+  good first issue, help wanted, invalid, javascript, more-information-needed, question,
+  wontfix
+assignees: behnamkhanioffical
 
 ---
 
